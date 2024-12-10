@@ -145,5 +145,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### João Pedro
 - Email: joaopedroaraujosilvabarbosa@gmail.com
-- LinkedIn: www.linkedin.com/in/joãopedro-sb
+- LinkedIn: [João Pedro](www.linkedin.com/in/joãopedro-sb)
 - GitHub: [@jhonzito66](https://github.com/jhonzito66/)
